@@ -1,8 +1,7 @@
 # Python4Data
 
 To Run the code:
-
-To run the notebook, Download/Clone the repository. In the command line from the folder Python4Data launch the jupyter notebook by entering:
+You will need to install Anaconda. To run the notebook, Download/Clone the repository. In the command line from the folder Python4Data launch the jupyter notebook by entering:
 
 jupyter notebook
 
