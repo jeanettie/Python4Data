@@ -17,7 +17,7 @@ injection wells in Oklahoma and is current as of September 2017. The information
 
 The second set is from the Untied States Geological Society and lists all seismic activity in the  Oklahoma region since 1977 ending in September 2016. It does include seismic activity from the surrounding states. I took only Oklahoma earthquakes from this data. I chose to use all magnitude quakes not just a set magnitude and up so there is no minimum magnitude. I did include 2016 in the visualization but want to note that the data ended in September of 2016 so it is not complete. I ended the x axis at 2016 since it was the last year of complete data for the active injection well dataset as well. 
 
-Anaylsis:  
+Analysis:  
 
 From the data, I believe there is a strong likely hood that the increase in injection wells and fracking is definitely 
 related to the increase in earthquakes in the state of Oklahoma.  While the actual fracking isn't supposed to induce large magnitude earthquakes, the wastewater byproducts being injected into these deep wells is thought to. It seems that an individual anaylsis of each quake would better determine whether it's the fracking or the wastewater by product disposal wells from the fracking that is the culprit 
