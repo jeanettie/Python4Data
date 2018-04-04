@@ -6,9 +6,8 @@ You will need to install Anaconda. To run the notebook, Download/Clone the repos
 
 jupyter notebook
 
-Once the notebook opens in the browser, open the file InjectionWells.ipynb. A new tab should open with the jupyter notebook. Feel free to 
-browse the code and notes but to run the entire notebook: select Run All from the Cell dropdown.  The bokeh visualization will open
-in a new tab and at the bottom of the file. If you run all cells more than one time, you will need to uncomment out two of my drop table commands to drop tables because the tables will have already been created and will throw errors. 
+Once the notebook opens in the browser, open the file InjectionWells.ipynb. A new tab should open with the jupyter notebook. Feel free to browse the code and notes but to run the entire notebook: select Run All from the Cell dropdown.  The bokeh visualization will open
+in a new tab and at the bottom of the file.  
 
 The Data: 
 
